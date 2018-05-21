@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "挨踢灰太狼的博客, 挨踢灰太狼, Java, Web"
 url: "http://it-huitailang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/it-huitailang/it-huitailang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -102,13 +102,10 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·marumarumanman",
+        href: "http://www.jianshu.com/u/3bf56c7b2a94"
     },{
         title: "Apple",
         href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
     }
 ]
