@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Web服务器
+subtitle:   rewite功能
+date:       2018-05-21
+author:     挨踢灰太狼
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - java
+    - web
+---
 
 # 概念 
 
