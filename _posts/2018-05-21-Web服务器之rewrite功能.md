@@ -1,8 +1,8 @@
 
-# 概念 #
+# 概念 
 URL Rewrite即URL重写，就是把传入Web的请求重定向到其他URL的过程。
 
-# 为什么web服务器需要rewrite功能呢？#
+# 为什么web服务器需要rewrite功能呢？
 
 **1.首先是满足观感的要求。**
 对于追求完美主义的网站设计师，就算是网页的地址也希望看起来尽量简洁明快。形如http://www.123.com/news/index.asp?id=123的网页地址，自然是毫无美感可言，而用UrlRewrite技术，你可以轻松把它显示为 http://www.123.com/news/123.html。
