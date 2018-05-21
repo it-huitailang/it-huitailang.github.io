@@ -15,3 +15,5 @@ URL Rewrite即URL重写，就是把传入Web的请求重定向到其他URL的过
 理论上，搜索引擎更喜欢静态页面形式的网页，搜索引擎对静态页面的评分一般要高于动态页面。所以，UrlRewrite可以让我们网站的网页更容易被搜索引擎所收录。
 
 转自： https://blog.csdn.net/shimiso/article/details/8594885
+
+
