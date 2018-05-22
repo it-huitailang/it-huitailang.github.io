@@ -1,13 +1,12 @@
 ---
 layout:     post
-title:      Web服务器
-subtitle:   rewite功能
+title:      Web服务器之rewrite功能
+subtitle:   
 date:       2018-05-21
 author:     挨踢灰太狼
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-os-metro.jpg
 catalog: true
 tags:
-    - java
     - web
 ---
 
