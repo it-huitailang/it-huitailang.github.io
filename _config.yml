@@ -2,7 +2,7 @@
 title: IT Grey Wolf's Blog
 SEOTitle: 挨踢灰太狼的博客
 header-img: img/post-bg-swift2.jpg
-email: ws.wujun@foxmail.com
+email: ithuitailang@163.com
 description: "Every failure is leading towards success."
 keyword: "挨踢灰太狼的博客, 挨踢灰太狼, Java, Web"
 url: "http://it-huitailang.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/it-huitailang/it-huitailang.github.io.git" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/blog-head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: c8959e0dea07f1958397                            #生成的clientID
   clientSecret: 83ee8c52299ff81419be52f5845cdf0a6e5810d1    #生成的clientSecret
   repo: it-huitailang.github.io    #仓库名称
